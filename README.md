@@ -13,11 +13,7 @@ https://github.com/shrict/data-science-project
 
 ## Installation
 
-Install my-project with npm
 
-```bash
-  npm install my-project
-  cd my-project
 ```
    pip install pandas 
    pip install numpy 
